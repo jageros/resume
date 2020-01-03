@@ -8,7 +8,7 @@ facebook: https://www.facebook.com/
 phone: 13160676597
 email: lhj168os@gmail.com
 
-baseurl: "/blog"
+baseurl: "/resume"
 
 permalink: /:year/:month/:day/:title/
 
