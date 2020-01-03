@@ -1,0 +1,19 @@
+# Site settings
+name: jager
+location: 广东
+company: OpenNew
+position: golang开发工程师
+github: https://github.com/jageros
+facebook: https://www.facebook.com/
+phone: 13160676597
+email: lhj168os@gmail.com
+
+baseurl: "/blog"
+
+permalink: /:year/:month/:day/:title/
+
+exclude: ['README.md']
+
+# Build settings
+markdown: kramdown
+
