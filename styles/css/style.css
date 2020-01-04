@@ -5441,7 +5441,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #ace-card h1 {
     font-size: 26px;
-    text-transform: uppercase;
+    text-transform: none;
     margin-top: 33px;
     margin-bottom: 11px;
 }
