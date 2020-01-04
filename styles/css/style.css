@@ -1743,6 +1743,14 @@ submit
     text-transform: uppercase;
 }
 
+.text-capitalize {
+    text-transform: capitalize;
+}
+
+.text-none {
+    text-transform: none;
+}
+
 .text-lead {
     font-size: 1.5em;
 }
