@@ -1,11 +1,11 @@
 # Site settings
-name: jager
+name: 大家都叫我杰哥
 location: 广东
-company: OpenNew
-position: golang开发工程师
+company: OpenN
+position: Golang开发
 github: https://github.com/jageros
-facebook: https://www.facebook.com/
-phone: 13160676597
+blog: https://blog.csdn.net/lhj_168
+phone: 有事邮件联系我！
 email: lhj168os@gmail.com
 
 baseurl: "/resume"
