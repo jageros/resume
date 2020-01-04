@@ -1727,7 +1727,7 @@ submit
   top: -50%;
   position: relative;
   }*/
-  .text-center {
+.text-center {
     text-align: center;
 }
 
@@ -1741,6 +1741,10 @@ submit
 
 .text-upper {
     text-transform: uppercase;
+}
+
+.text-lower {
+    text-transform: lowercase;
 }
 
 .text-capitalize {
